@@ -1,7 +1,24 @@
-# CakePHP_JWT
+# CakePHP_JWT (Fork Personalizado)
 
-CakePHP_JWT is a Plugin for CakePHP 4 that allows you to authenticate users by JSON Web Tokens
+Este es un fork personalizado del proyecto CakePHP_JWT. El propósito principal de este repositorio es adaptar la autenticación basada en JSON Web Tokens (JWT) para mi proyecto específico. Ten en cuenta que esta implementación puede no ser adecuada para otros proyectos y que no proporciono soporte para su uso en otras aplicaciones.
 
+## Descripción
+
+CakePHP_JWT es un Plugin para CakePHP 4 que permite autenticar usuarios mediante JSON Web Tokens. Este fork ha sido personalizado y adaptado para mis necesidades específicas y puede no ser adecuado para su uso en otros proyectos.
+
+## Nota de Uso
+
+Este repositorio es solo para mi uso personal y no estoy proporcionando soporte o garantía para su implementación en otros proyectos. Si estás interesado en utilizar CakePHP_JWT en tu propio proyecto, te recomiendo consultar el repositorio original del proyecto para obtener instrucciones detalladas sobre su uso.
+
+Para obtener información sobre cómo utilizar CakePHP_JWT, consulta la documentación y las instrucciones en el [repositorio original](enlace-al-repositorio-original).
+
+## Licencia
+
+Este fork personalizado se rige por la [Licencia MIT](https://choosealicense.com/licenses/mit/).
+
+
+
+CakePHP_JWT is a Plugin for CakePHP 4 that allows you to authenticate users by JSON Web Tokens. 
 ## Installation
 
 Use the package manager [composer](https://getcomposer.org) to install CakePHP_JWT.
